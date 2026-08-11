@@ -8,7 +8,7 @@ Analysis of Superstore sales data using Pandas — total revenue, top products, 
 This project is **Task 1** of the internship: analyze the Superstore sales CSV using Pandas to compute total revenue, identify top products, and visualize results with bar charts.
 
 ## What's inside
-- `Sales_Performance_Dashboard.ipynb` — full analysis notebook (data cleaning, revenue metrics, top products, bar charts, monthly trend)
+- `Sales_Performance_Dashboard 1.ipynb` — full analysis notebook (data cleaning, revenue metrics, top products, bar charts, monthly trend)
 - `SuperstoreDataset.csv` — source dataset
 
 ## Key sections
@@ -26,5 +26,5 @@ Python, Pandas, Matplotlib
 ## How to run
 ```bash
 pip install pandas matplotlib jupyter
-jupyter notebook Sales_Performance_Dashboard.ipynb
+jupyter notebook Sales_Performance_Dashboard 1.ipynb
 ```
